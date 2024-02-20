@@ -1,0 +1,17 @@
+body{
+  font-family:'Open Sans', sans-serif;
+}
+.activitytable{
+  margin-left: 50px;
+  padding-left: 20px;
+  width: 500px;
+  
+ 
+ 
+
+}
+.activitybox{
+  background-color: #ffff;
+
+  border-radius: 20px;
+}
